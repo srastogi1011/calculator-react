@@ -1,3 +1,9 @@
+Hello, welcome to my calculator project in React. The main code is contained in the App.js and App.css files, as well as the files in the Components folder. The index.js and index.css files are created by default by the Create React App package. Thanks!
+
+
+
+Below are the contents of the default Create React App README:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
